@@ -8,7 +8,7 @@ Web Developer
 
 * 🌍  I'm based in Ahmedabad
 * ✉️  You can contact me at [mayankpatel6877@gmail.com](mailto:mayankpatel6877@gmail.com)
-* 🚀  I'm currently working on [Experro](https://experro.com)
+* 🚀  I'm currently working on [Odoo](https://www.odoo.com/)
 * 🤝  I'm open to collaborating on Full stack web app
 
 ### Skills
